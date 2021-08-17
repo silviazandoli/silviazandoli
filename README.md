@@ -5,7 +5,7 @@
 - ⏳ Stay focused and be present!
 
 
-- 📫 How to reach me ...
+- 📫 How to reach me...
 <p align="left">
   <a href="mailto:silvia.zandoli2@studio.unibo.it"><img src="https://img.icons8.com/plasticine/80/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/silvia-z-8755a7198/"><img src="https://img.icons8.com/plasticine/80/000000/linkedin.png" alt="linkedin"/></a>
