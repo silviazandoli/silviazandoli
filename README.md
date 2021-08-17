@@ -18,3 +18,4 @@
 </p>
 
 [![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviazandoli)](https://github.com/silviazandoli/README.md)
+![Silvia's GitHub stats](https://github-readme-stats.vercel.app/api?username=silviazandoli&count_private=true)
