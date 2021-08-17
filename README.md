@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Silvia Zandoli
-- 🌱 I’m currently studying at my Master degree in Computer Science and Engineering at University of Bologna
-- 👀 I’m interested in math, computer science and engineering, artificial intelligence
+- 🌱 I’m currently studying at my Master degree in Computer Science Engineering at University of Bologna
+- 👀 I’m interested in math, computer science, artificial intelligence
 - 🪁 Other hobbies are fitness, photography, swimming, travel, drawing
 - ⏳ Stay focused and be present!
 
