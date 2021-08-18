@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Silvia
+- 👋 Hi , I’m Silvia
 - 🌱 I’m currently studying at my Master degree in Computer Science Engineering at University of Bologna
 - 👀 I’m interested in math, computer science, artificial intelligence
 - 🪁 Other hobbies are fitness, photography, swimming, travel, drawing
