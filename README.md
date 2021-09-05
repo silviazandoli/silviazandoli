@@ -1,7 +1,7 @@
 - 👋 Hi , I’m Silvia
 - 🌱 I’m currently studying at University of Bologna
 - 👀 I’m interested in math, computer science, artificial intelligence
-- 🪁 Other hobbies are fitness, photography, swimming, travel, drawing
+- 🪁 Other hobbies are fitness, photography, drawing
 - ⏳ Stay focused and be present!
 
 
