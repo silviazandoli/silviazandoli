@@ -7,7 +7,6 @@
 
 - 📫 How to reach me...
 <p align="left">
-  <a href="mailto:silviadolomiti@gmail.com"><img src="https://img.icons8.com/plasticine/80/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/silvia-z-8755a7198/"><img src="https://img.icons8.com/plasticine/80/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.deviantart.com/silviazandoli/"><img src="https://img.icons8.com/fluency-systems-filled/50/000000/devianart.png"/></a>
 </p>
