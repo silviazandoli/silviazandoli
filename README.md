@@ -1,7 +1,6 @@
 - 👋 Hi , I’m Silvia
 - 🌱 I’m currently studying at University of Bologna
 - 👀 I’m interested in computer science, artificial intelligence and math
-- ⏳ Stay focused and be present!
 - Here in Github there are only some of the projects I've done
 
 
